@@ -1,9 +1,9 @@
 ## Hi there 👋
 <p align="left">
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmcelik&border_color=00FFFF&border_radius=6&bg_color=030614&title_color=00FFFF&text_color=000000&icon_color=EC775C)" alt="Stats" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmcelik&border_color=00FFFF&border_radius=6&bg_color=030614&title_color=00FFFF&text_color=ffffff&icon_color=EC775C)" alt="Stats" /></a>
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmcelik&border_color=00FFFF&border_radius=6&bg_color=030614&title_color=00FFFF&text_color=000000&icon_color=EC775C&layout=compact" alt="Top Languages" /></a>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmcelik&border_color=00FFFF&border_radius=6&bg_color=030614&title_color=00FFFF&text_color=ffffff&icon_color=EC775C&layout=compact" alt="Top Languages" /></a>
 <!--
 **hmcelik/hmcelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
