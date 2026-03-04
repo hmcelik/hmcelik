@@ -1,8 +1,8 @@
 # Hey there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmcelik&amp;border_color=00FFFF&amp;border_radius=6&amp;bg_color=030614&amp;title_color=00FFFF&amp;text_color=ffffff&amp;icon_color=EC775C&amp;show_icons=true" height="165" alt="hmcelik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmcelik&amp;border_color=00FFFF&amp;border_radius=6&amp;bg_color=030614&amp;title_color=00FFFF&amp;text_color=ffffff&amp;layout=compact" height="165" alt="hmcelik's Top Languages" />
+  <img src="./profile/stats.svg" height="165" alt="hmcelik's GitHub stats" />
+  <img src="./profile/top-langs.svg" height="165" alt="hmcelik's Top Languages" />
 </p>
 
 ---
